@@ -45,6 +45,6 @@ Each program includes:
 1. Make sure a C compiler (like **GCC**) is installed
 2. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git   
+   git clone https://github.com/Echo-Nexus/Learning-C-from-KG-Coding/tree/main/C-class-project-work-2082-Computer-Batch   
   ```bash 
 gcc filename.c -o output ./output
