@@ -1,4 +1,4 @@
- # C and C++ Langugage Practiced !!!
+ # C Langugage Practiced !!!
 
  <p>Here, I have practiced many more basic to medium level questions as a student. </p>
 
